@@ -2,6 +2,8 @@
 
   - 🌱 I’m currently learning ... in Alura
   
+  github-readme-stats.vercel.app/api?username=Kewc
+  
 <!--
 **Kewc/Kewc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
