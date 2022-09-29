@@ -1,5 +1,10 @@
 ### I'm Kevin 👋
 
+  const midudev = {
+    pronouns: "he" I "him",
+    code: [Javascript, HTML, CSS]
+    }
+
   - 🌱 I’m currently learning ... in Alura
   
   [![Kews's github stats](https://github-readme-stats.vercel.app/api?username=Kewc)]
