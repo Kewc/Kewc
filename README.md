@@ -1,9 +1,11 @@
 ### I'm Kevin 👋
 
+```js
   const midudev = {
-    pronouns: "he" I "him",
-    code: [Javascript, HTML, CSS]
-    }
+   pronouns: "he" I "him",
+   code: [Javascript, HTML, CSS]
+  }
+  ``` 
 
   - 🌱 I’m currently learning ... in Alura
   
