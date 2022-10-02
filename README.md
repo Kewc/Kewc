@@ -1,7 +1,7 @@
 ### I'm Kevin 👋
 
 ```js
-  const midudev = {
+  const kewc = {
    pronouns: "he" I "him",
    code: [Javascript, HTML, CSS]
   }
